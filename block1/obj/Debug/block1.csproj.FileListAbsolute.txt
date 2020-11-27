@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\obj\Debug\block1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\obj\Debug\block_folder.checkpassword.resources
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\obj\Debug\block_folder.Form1.resources
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\obj\Debug\block_folder.frmPassword.resources
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\obj\Debug\block1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\obj\Debug\block1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\obj\Debug\block1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\bin\Debug\block1.exe.config
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\bin\Debug\block1.exe
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\bin\Debug\block1.pdb
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\obj\Debug\block1.exe
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\Blocked_Folder\block1\block1\obj\Debug\block1.pdb
